@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [Suite2]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="tests" name="TesteInternetExplorer(failed)">
+    <parameter name="nomeBrowser" value="ie"/>
+    <classes>
+      <class name="all.com.Atividades_4all.Atividade_2">
+        <methods>
+          <include name="setUp"/>
+          <include name="atividade2"/>
+          <include name="fecharPagina"/>
+        </methods>
+      </class> <!-- all.com.Atividades_4all.Atividade_2 -->
+    </classes>
+  </test> <!-- TesteInternetExplorer(failed) -->
+</suite> <!-- Failed suite [Suite2] -->

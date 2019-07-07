@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/byte-buddy-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/guava-28.0-jre-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/okhttp-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/okio-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jar_Files/kotlin-stdlib-1.3.41.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
